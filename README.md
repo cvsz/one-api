@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Migration status:** `cvsz/zaiman` is the canonical ZeaZ AI gateway. This repository is retained as a compatibility and robustness-test source while clients migrate. The current `/v1/chat/completions` implementation returns a mock unified response and must not be treated as the production multi-provider router.
+
 <div align="center">
   <img src="assets/logo.png" alt="one-api Logo" width="250" />
   
